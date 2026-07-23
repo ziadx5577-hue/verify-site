@@ -1,0 +1,156 @@
+[
+  {
+    "id": "nitro-1m",
+    "category": "discord",
+    "name": "نيترو لمدة شهر",
+    "price": 1900,
+    "description": "رابط Nitro Gift لمدة شهر، تسليم تلقائي بعد الدفع.",
+    "icon": "🔮",
+    "badge": "الأكثر طلبًا",
+    "stockType": "nitro",
+    "active": true
+  },
+  {
+    "id": "nitro-3m",
+    "category": "discord",
+    "name": "نيترو لمدة 3 شهور",
+    "price": 1400,
+    "description": "للحسابات المؤهلة التي لم تُفعّل العرض من قبل.",
+    "icon": "💎",
+    "badge": "عرض خاص",
+    "stockType": "nitro",
+    "active": true
+  },
+  {
+    "id": "nitro-1y",
+    "category": "discord",
+    "name": "نيترو لمدة سنة",
+    "price": 16500,
+    "description": "اشتراك نيترو سنوي كامل.",
+    "icon": "✨",
+    "badge": "سنوي",
+    "stockType": "nitro",
+    "active": true
+  },
+  {
+  "id": "discord-2015",
+  "category": "discord",
+  "name": "حساب ديسكورد إنشاء 2015",
+  "price": 22000,
+  "description": "حساب ديسكورد بتاريخ إنشاء سنة 2015.",
+  "icon": "👤",
+  "badge": "إنشاء قديم",
+  "stockType": "manual",
+  "active": true
+},
+{
+  "id": "discord-2016",
+  "category": "discord",
+  "name": "حساب ديسكورد إنشاء 2016",
+  "price": 3000,
+  "description": "حساب ديسكورد بتاريخ إنشاء سنة 2016.",
+  "icon": "👤",
+  "badge": "إنشاء قديم",
+  "stockType": "manual",
+  "active": true
+},
+{
+  "id": "discord-2017",
+  "category": "discord",
+  "name": "حساب ديسكورد إنشاء 2017",
+  "price": 1800,
+  "description": "حساب ديسكورد بتاريخ إنشاء سنة 2017.",
+  "icon": "👤",
+  "badge": "إنشاء قديم",
+  "stockType": "manual",
+  "active": true
+},
+{
+  "id": "discord-2018",
+  "category": "discord",
+  "name": "حساب ديسكورد إنشاء 2018",
+  "price": 1500,
+  "description": "حساب ديسكورد بتاريخ إنشاء سنة 2018.",
+  "icon": "👤",
+  "badge": "إنشاء قديم",
+  "stockType": "manual",
+  "active": true
+},
+{
+  "id": "discord-2019",
+  "category": "discord",
+  "name": "حساب ديسكورد إنشاء 2019",
+  "price": 1000,
+  "description": "حساب ديسكورد بتاريخ إنشاء سنة 2019.",
+  "icon": "👤",
+  "badge": "إنشاء قديم",
+  "stockType": "manual",
+  "active": true
+},
+{
+  "id": "discord-2020",
+  "category": "discord",
+  "name": "حساب ديسكورد إنشاء 2020",
+  "price": 900,
+  "description": "حساب ديسكورد بتاريخ إنشاء سنة 2020.",
+  "icon": "👤",
+  "badge": "إنشاء قديم",
+  "stockType": "manual",
+  "active": true
+},
+  {
+    "id": "netflix-1m",
+    "category": "subscriptions",
+    "name": "Netflix لمدة شهر",
+    "price": 2800,
+    "description": "على بريدك الخاص، باقة 4K وضمان كامل المدة.",
+    "icon": "🎬",
+    "badge": "4K",
+    "stockType": "manual",
+    "active": true
+  },
+  {
+    "id": "shahid-profile",
+    "category": "subscriptions",
+    "name": "شاهد — ملف خاص",
+    "price": 1400,
+    "description": "ملف خاص لمدة شهر.",
+    "icon": "▶",
+    "badge": "متوفر",
+    "stockType": "manual",
+    "active": true
+  },
+  {
+    "id": "snap-plus",
+    "category": "subscriptions",
+    "name": "Snapchat+ Gift",
+    "price": 3000,
+    "description": "الأسعار تبدأ من 30 ريال مع ضمان كامل المدة.",
+    "icon": "👻",
+    "badge": "Gift",
+    "stockType": "manual",
+    "active": true
+  },
+  {
+    "id": "discord-bots",
+    "category": "bots",
+    "name": "بوتات ديسكورد",
+    "price": 0,
+    "description": "بوتات مخصصة حسب طلب العميل.",
+    "icon": "🤖",
+    "badge": "حسب الطلب",
+    "stockType": "manual",
+    "active": false
+  },
+  {
+    "id": "js-lua-protect",
+    "category": "tools",
+    "name": "حماية ملفات JavaScript وLua",
+    "price": 1000,
+    "description": "تهيئة وحماية ملفات مشاريعك.",
+    "icon": "🛡️",
+    "badge": "حماية",
+    "stockType": "manual",
+    "active": true
+  }
+]
